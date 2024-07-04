@@ -1,0 +1,259 @@
+baseURL: https://edace.github.io
+languageCode: en-us
+title: Erik Ace
+theme: "hugo-profile"
+
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    - "JSON"
+  page:
+    - "HTML"
+    - "RSS"
+
+Paginate: 3
+enableRobotsTXT: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+Menus: 
+  main:
+    - identifier: blog
+      name: Blog
+      title: Blog Posts
+      url: /blogs
+      weight: 1
+
+params:
+  title: "Erik Ace"
+  description: Erik Ace's spot on the webs
+  #favicon: "/fav.png"
+  useBootstrapCDN: true
+  mathjax: false
+  animate: true
+
+  theme:
+    defaultTheme: "light"
+    disableThemeToggle: false
+  font:
+    fontSize: 1rem
+    fontWeight: 400
+    lineHeight: 1.7
+    textAlign: left 
+  color:
+    textColor: "#343a40"
+    secondaryTextColor: "#6c757d"
+    backgroundColor: "#eaedf0"
+    secondaryBackgroundColor: "#64ffda1a"
+    primaryColor: "#007bff"
+    secondaryColor: "#f8f9fa"
+
+    darkmode:
+      textColor: "#e4e6eb"
+      secondaryTextColor: "#b0b3b8"
+      backgroundColor: "#18191a"
+      secondaryBackgroundColor: "#212529"
+      primaryColor: "#ffffff"
+      secondaryColor: "#212529"
+
+    navbar:
+      align: ms-auto
+      brandName: "EDACE"
+      disableSearch: false
+      searchPlaceholder: "Search"
+      stickyNavBar:
+        enable: true
+        showOnScrollUp: true
+      enableSeparator: false
+      menus:  
+        disableAbout: false
+        disableExperience: false
+        disableEducation: false
+        disableProjects: false
+        disableAchievements: false
+        disableContact: false
+
+  hero:
+    enable: true
+    intro: "Hi, my name is"
+    title: "Erik."
+    subtitle: "I build things with machines"
+    content: |
+      and I think about the consequences.
+    image: /images/hero.png
+    bottomImage:
+      enable: true
+      roundImage: false # Make hero image circular | default false
+    button:
+      enable: true
+      name: "Resume"
+      url: "/resume"
+      download: true
+      newPage: false
+    socialLinks:
+      fontAwesomeIcons:
+        - icon: fab fa-github
+          url: https://github.com/ewhipp
+        - icon: fab fa-twitter
+          url: https://bsky.app/profile/edw241.bsky.social
+  
+  about:
+    enable: true
+    title: "About Me"
+    image: "/images/me.png"
+    content: |-
+      I am full stack engineer and tech enthusiast and am passionate about building reliable, performant applications. After
+      working in the industry for a few years and continuing studies after university, I've begun to take an interest in the
+      intersection of tech, history, and the broader political economy. 
+
+      On my slice of the internet, you will find information technology I'm working with along with analysis around
+      economics, power, and technology. 
+    skills:
+      enable: true
+      title: "Here are a few technologies I've been working with recently:"
+      items:
+        - "Bigquery"
+        - "Snowflake"
+        - "Apache Beam"
+        - "Spring Boot 3"
+        - "Tekton"
+        - "Jenkins"
+        - "Typescript"
+        - "React | Vue | Angular"
+        - "Golang"
+        - "Kubernetes | Docker"
+  
+  experience:
+    enable: true
+    items:
+      - job: "Lead Full Stack Engineer"
+        company: "Ford Pro"
+        companyUrl: "https://fordpro.com/en-us/"
+        date: "Mar 2021 - present"
+        content: | 
+          At [Ford Pro](https://ford.com), I have worked on a wide range of products here that are serving millions of 
+          customers around the world. These products range from vehicle maintenance programs in multiple regions, to 
+          data warehousing and producing APIs, to managing infrastructure at scale.
+          - Lead backend developer for two projects
+          - Lead frontend developer for one project
+          - Lead cross-functional engineer for one data product
+          
+          These projects are all under NDA but can be found on the [Ford Pro](https://fordpro.com/en-us/) website and are
+          serving multiple regions throughout the world.
+
+      - job: "R&D Engineer"
+        company: "HG Insights"
+        companyUrl: "https://hginsights.com/"
+        date: "Oct 2020 - Feb 2021"
+        featuredLink:
+          name: Functional Area Classifier
+          enable: true
+          url: "https://hginsights.com/solutions/products/hg-functional-area-intelligence"
+        info:
+          enable: false
+          content: I worked as a software developer for more than one year in Amazon.
+        content: |
+          As a research and development engineer at HG Insights, I learned about data aggregation and manipulation. I also
+          learned about security and the amount of information we leave on the internet.
+
+          During my time at HG Insights, I:
+            - Determined spend of companies by department
+            - Create a sales solution for future feature presentation
+            - Managed ETL pipelines that drove all core machine learning algorithms
+          
+      - job: "Senior Software Engineer"
+        company: "ICANN"
+        companyUrl: "https://www.icann.org/"
+        date: "Aug 2018 - Sep 2021"
+        info:
+          enable: false
+        featuredLink:
+          enable: true
+          name: Information Transparency Initiative (ITI)
+          url: "https://www.icann.org/iti"
+        content: |
+          My tenure at ICANN started as a junior developer. In a span of two years, I became a core team member on the 
+          [Internet Transparency Initiative](https://icannwiki.org/Information_Transparency_Initiative) and the initial
+          migration to this platform.
+
+          During my time at ICANN, I:
+            - Developed a migration pipeline between Drupal and the Alfresco Document Management System
+            - Developed a publishing platform that sped up internal content operations from months to minutes
+            - Redesigned our publishing interface to accomodate several types of users
+  
+  education:
+    enable: true
+    items:
+      - title: "Bachelor of Science in Computer Science"
+        school:
+          name: "American University, Washington D.C."
+          url: "https://american.edu"
+        date: "2015 - 2018"
+        GPA: "3.7 out of 4.0"
+        content: |-
+          Extracurricular Activities
+            - Association for Computing and Machinery (ACM)
+        featuredLink:
+          enable: true
+          name: "Unofficial Transcripts"
+          url: "/downloads/au-transcripts-2018.pdf"
+      - title: "Bachelor of Science in Audio Technology"
+        school:
+          name: "American University, Washington D.C."
+          url: "https://american.edu"
+        date: "2015 - 2018"
+        GPA: "3.62 out of 4.0"
+        content: |-
+            Extracurricular Activities
+            - Monitor engineer at [The National Presbyterian Church](https://nationalpres.org/)
+            - Supported in the development of courses ATEC-484/ATEC-684 through research into the [JUCE](https://www.juce.com) framework.
+        featuredLink:
+          enable: true
+          name: "Unofficial Transcripts"
+          url: "/downloads/au-transcripts-2018.pdf"
+
+  achievements:
+    enable: false
+  projects:
+    enable: false
+  contact:
+    enable: true
+    content: My inbox is always open. I'd love to hear from you in most capacities.
+    btnName: Message me
+    btnLink: mailto:engineering.scientist167@passmail.net
+
+  footer:
+    recentPosts:
+      path: "blogs"
+      count: 3
+      title: Recent Posts
+      enable: true
+      disableFeaturedImage: false
+    socialNetworks:
+      github: https://github.com/ewhipp
+      linkedin: https://www.linkedin.com/in/erik-w-347736116/
+      twitter: https://bsky.app/profile/edw241.bsky.social
+
+  listPages:
+    disableFeaturedImage: false
+  singlePages:
+    socialShare: true
+    readTime:
+      enable: true
+      content: "min read"
+    scrollprogress:
+      enable: true
+    tags:
+      openInNewTab: true
+
+  datesFormat:
+    article: "Jan 2, 2006"
+    articleList: "Jan 2, 2006"
+    articleRecent: "Jan 2, 2006"
+
+
+

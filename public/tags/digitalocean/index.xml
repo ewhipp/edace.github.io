@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DigitalOcean on Erik Ace</title>
+    <link>http://localhost:1313/tags/digitalocean/</link>
+    <description>Recent content in DigitalOcean on Erik Ace</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Jul 2024 22:53:58 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/digitalocean/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a Blog with Hugo and Obsidian</title>
+      <link>http://localhost:1313/blogs/obsidian-hugo-blog/</link>
+      <pubDate>Wed, 03 Jul 2024 22:53:58 +0530</pubDate>
+      <guid>http://localhost:1313/blogs/obsidian-hugo-blog/</guid>
+      <description>Creating a blog with static websites is very easy.&#xA;This is particularly easy if you are familiar with markdown and use tools like Obsidian. All you need to do is leverage a tool like DigitalOcean to deploy a Hugo template.&#xA;With this template, a foundation for a blog is available for you to modify yourself.&#xA;Let&amp;rsquo;s do it!&#xA;Required Tools: Git, hugo cli&#xA;Getting up to Speed with Hugo Find a theme.</description>
+    </item>
+  </channel>
+</rss>
