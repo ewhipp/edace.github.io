@@ -2,8 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/2024-election/</loc>
+    <lastmod>2024-07-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blogs/</loc>
-    <lastmod>2024-07-03T22:53:58+05:30</lastmod>
+    <lastmod>2024-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/miscellaneous/</loc>
+    <lastmod>2024-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/politics/</loc>
+    <lastmod>2024-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/the-politics-of-spectacle/</loc>
+    <lastmod>2024-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogs/obsidian-hugo-blog/</loc>
     <lastmod>2024-07-03T22:53:58+05:30</lastmod>
@@ -11,16 +29,10 @@
     <loc>http://localhost:1313/tags/digitalocean/</loc>
     <lastmod>2024-07-03T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-07-03T22:53:58+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2024-07-03T22:53:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/obsidian/</loc>
-    <lastmod>2024-07-03T22:53:58+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-07-03T22:53:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>

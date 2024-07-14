@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Erik Ace</title>
-    <link>http://localhost:1313/blogs/</link>
-    <description>Recent content in Blogs on Erik Ace</description>
+    <title>Politics on Erik Ace</title>
+    <link>http://localhost:1313/tags/politics/</link>
+    <description>Recent content in Politics on Erik Ace</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/politics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Politics of Spectacle</title>
       <link>http://localhost:1313/blogs/the-politics-of-spectacle/</link>
       <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blogs/the-politics-of-spectacle/</guid>
       <description>Living through the Barack Obama, and the Bernie Sanders campaigns of 2008 and 2016, respectively, have given me a strange sense of what politics are like. Now, I&amp;rsquo;m only twenty eight years old and my experience is skewed due to that, however, it feels as though those two years were particularly focused on policies that made elections feel worth something. During the 2020 campaign, Donald Trump&amp;rsquo;s campaign was mostly focused on continuing to build the wall, villainize China, and to manage (not sure this is the right word) the coronovirus 19 pandemic.</description>
-    </item>
-    <item>
-      <title>Creating a Blog with Hugo and Obsidian</title>
-      <link>http://localhost:1313/blogs/obsidian-hugo-blog/</link>
-      <pubDate>Wed, 03 Jul 2024 22:53:58 +0530</pubDate>
-      <guid>http://localhost:1313/blogs/obsidian-hugo-blog/</guid>
-      <description>Creating a blog with static websites is very easy.&#xA;This is particularly easy if you are familiar with markdown and use tools like Obsidian. All you need to do is leverage a tool like DigitalOcean to deploy a Hugo template.&#xA;With this template, a foundation for a blog is available for you to modify yourself.&#xA;Let&amp;rsquo;s do it!&#xA;Required Tools: Git, hugo cli&#xA;Getting up to Speed with Hugo Find a theme.</description>
     </item>
   </channel>
 </rss>

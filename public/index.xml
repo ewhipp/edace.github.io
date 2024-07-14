@@ -6,8 +6,15 @@
     <description>Recent content on Erik Ace</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jul 2024 22:53:58 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Politics of Spectacle</title>
+      <link>http://localhost:1313/blogs/the-politics-of-spectacle/</link>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/the-politics-of-spectacle/</guid>
+      <description>Living through the Barack Obama, and the Bernie Sanders campaigns of 2008 and 2016, respectively, have given me a strange sense of what politics are like. Now, I&amp;rsquo;m only twenty eight years old and my experience is skewed due to that, however, it feels as though those two years were particularly focused on policies that made elections feel worth something. During the 2020 campaign, Donald Trump&amp;rsquo;s campaign was mostly focused on continuing to build the wall, villainize China, and to manage (not sure this is the right word) the coronovirus 19 pandemic.</description>
+    </item>
     <item>
       <title>Creating a Blog with Hugo and Obsidian</title>
       <link>http://localhost:1313/blogs/obsidian-hugo-blog/</link>
