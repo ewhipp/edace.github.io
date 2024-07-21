@@ -1,0 +1,43 @@
+---
+title: Tech has Lost the Plot
+date: 2024-07-21
+draft: false
+author: Erik A
+tags:
+  - Big-Tech
+  - Innovation
+  - Capitalism
+image: /images/big-tech-ai.jpg
+description: When was the last time we were inspired by the delivery of a new technology?
+toc:
+---
+For myself, some of my coworkers, and engineers I meet with outside of work - there has been an overwhelming sense of: 'AI is cool, but why is it being put into every product?' [A similar sentiment came to pass during the crypto boom and collapse](https://www.artnews.com/art-news/news/future-of-nfts-2022-opensea-royalties-1234651990/), it was everywhere, but how useful was it to us? With the [increase in interest rates](https://www.macrotrends.net/2015/fed-funds-rate-historical-chart) the tech industry has been [unable to garner the attention of investors](https://www.cnbc.com/video/2024/06/20/high-interest-rates-hit-corporate-investment-in-tech.html) this causes two crises for the tech industry:
+
+1. Lack of interest from investors causes a lack of fluid capital to invest in research and development
+2. A scramble to find something other than monthly active users to show that the growth curve still is going up
+	* This is probably best encapsulated by the push for NFT, AI, and the reduction in the use of [monthly active users](https://www.cnbc.com/2024/04/24/meta-meta-q1-2024-earnings-.html?ref=wheresyoured.at) as a [key statistic in defining usage](https://mashable.com/article/twitter-x-daily-active-users-drop-under-elon-musk)
+
+What does this all mean? It shows that, while we like to believe that technology is a key point of American innovation and ingenuity, in reality, we are seeing [a stark decline in innovation driven by capitalist investment and other countries are taking advantage](https://www.wipo.int/pressroom/en/articles/2023/article_0013.html). If we don't come to recognize [the key participant](https://en.wikipedia.org/wiki/ARPANET) ([the government](https://en.wikipedia.org/wiki/Global_Positioning_System)), in our ability to innovate as an industry, then we will continue to produce lackluster technology that ultimately turns people away from tech.
+
+## Artificial Intelligence is Big Tech, not Innovation
+It is easy to fall into the trap of believing that generative artificial intelligence is relatively new which must mean that there is a highly competitive ecosystem of businesses that are fighting to grow & consolidate. However, we always have to take a step back and remember that **all computing systems are just wires, engineers, and servers**. Generative AI has been [personified and anthropomorphized](https://www.nngroup.com/articles/anthropomorphism/) which makes it harder for the general population to separate themselves from this fact. Also behind this fact, is the [massive amounts of infrastructure needed to generate a GenAI product](https://www.leewayhertz.com/generative-ai-tech-stack/). With this in mind, it is almost impossible to conceptualize, develop, and deliver a product without some use of Amazon Web Services, Google Cloud Platform, Microsoft Azure, or simply integrating with the OpenAI API. 
+
+Because of the complexity here, we are witnessing another form of monopolization of the tech industry below the surface. [Especially with the current Crowdstrike situation](https://wgntv.com/news/nexstar-media-wire/could-the-crowdstrike-global-tech-crash-happen-again-a-former-microsoft-executive-weighs-in/), we should be pushing back on this tendency. If more and more innovation, is a thinly veiled integration with the major big tech firms, we are not only introducing many small points of catastrophic failure, but we are increasing [the power of these leviathans](https://socialsci.libretexts.org/Bookshelves/Economics/Economics_(Boundless)/11%3A_Monopoly/11.3%3A_Monopoly_Production_and_Pricing_Decisions_and_Profit_Outcome). This monopolization, however, is not in the phones we use or the services we leverage to plan or improve our life. These services are looking to render human oversight useless.
+
+## Artificial Intelligence and The Automation of Perception and Oversight
+A key to understand the difference in what generative AI aims are vs. conventional technological innovation is the difference between the automation of manual labor and tasks and the automation of perception and oversight. From [Matteo Pasqunelli](http://matteopasquinelli.com/the-eye-of-the-master/): 
+
+> The first kind of mental labour to be mechanised was hand calculation – a specific skill that persisted until the model of the Turing machine, which was envisioned itself in the form of a human typist (a ‘computer’) reading and writing figures on a tape, as in a telegraph station... by following a different genealogy of computation and AI, this was not to be the case with artificial neural networks for pattern recognition, which aimed to automate not hand calculation but the labour of perception and supervision
+
+Artificial intelligence represents an opportunity to reduce labor as a commodity to a reproducible raw commodity. **This** is the [reason generative AI has shot up in investment](https://ourworldindata.org/grapher/global-investment-in-generative-ai) without [seeing the corresponding gains](https://www.goldmansachs.com/intelligence/pages/gen-ai-too-much-spend-too-little-benefit.html). The ideal end state of this is that the major technology firms hold the keys to oversight, information, automation, and social presence in the Internet age. Monopolization and enclosures on what [is still regarded as necessary for developing human rights](https://www.unesco.org/en/articles/oxford-statement-importance-access-information-and-digital-connectivity).
+
+## Artificial Intelligence is Marginally Useful in Most Applications
+With all this in mind, we can now understand why [Google is replacing a useful search engine with generative AI](https://www.forbes.com/sites/jackkelly/2024/05/31/google-ai-glue-to-pizza-viral-blunders/), why [companies are attempting to rebrand as AI](https://www.theverge.com/2024/1/13/24035152/ces-generative-ai-hype-robots), and [why people are upset about the attack on the creative industries](https://www.computer.org/publications/tech-news/trends/artists-mad-at-ai). Big tech is looking to produce a new verb that replaces "To Google" something. They want to own that data and provide it to us in the form they see fit. They want to receive the praises of the financial industry that loves a world where labor is devalued into a raw commodity and generalized as a price input. They want to ensure that our focus as a society is on STEM instead of having avenues to experience humanity through art and play. 
+
+But I think we've lost the plot.
+
+What was amazing about the introduction of the iPhone? Facebook? The World Wide Web? Google? The outcome of those products helped people for a short while. Access to the world's information at your fingertips, reconnecting with friends, access to the world's information, self-actualization in a shared space, and entertainment. 
+
+What is amazing about Artificial Intelligence? There [are](https://ieeexplore.ieee.org/document/10438431) use cases. This is what makes it far more compelling than NFTs and crypto. But, does [healthcare need a substantial shift driven by statistics machines](https://www.who.int/news/item/28-06-2021-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use) (generative AI)? Does [search](https://www.cyber.nj.gov/Home/Components/News/News/1258/214)? Does [the law](https://theconversation.com/ai-is-creating-fake-legal-cases-and-making-its-way-into-real-courtrooms-with-disastrous-results-225080)? Do we want to live in a world where humans do tedious jobs and [computers get to make all the art](https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/)? Let alone our films? [What about warfare](https://www.972mag.com/lavender-ai-israeli-army-gaza/)? 
+
+In the end, the stark contrast between engineers completing the work of these companies and the visions these companies have of the future could not be more stark. The conversation should no longer center around human-centered design, the conversation should be around what are the political, social, and economic ramifications of allowing this to happen and what tools will benefit us and society as a whole.
